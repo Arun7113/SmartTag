@@ -5,7 +5,7 @@
 [](https://huggingface.co/transformers/)
 [](https://pytorch.org/)
 
-This repository contains the solution for the **Amazon ML Challenge 2025**, which focuses on predicting product prices from text descriptions. Our approach uses a fine-tuned `roberta-large` model to achieve a validation SMAPE score of **49.65%**.
+This repository contains the solution for the **Amazon ML Challenge 2025**, which focuses on predicting product prices from text descriptions. Our approach uses a fine-tuned `roberta-large` model to achieve a validation SMAPE score of **40.65%**.
 
 ## 📝 Project Overview
 
